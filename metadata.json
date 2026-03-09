@@ -1,0 +1,5 @@
+{
+  "name": "MoneyManager",
+  "description": "A professional, web-based money management application with dashboard, transactions, accounts, and reporting features.",
+  "requestFramePermissions": []
+}
